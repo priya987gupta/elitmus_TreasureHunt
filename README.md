@@ -36,12 +36,12 @@ Tech stack used are **`HTML/CSS/JS/PHP`**.
 ## Steps taken
 
 Run `register_form.php`
-New users can register for the game by filling name,email and password columns.
-Already registered users can directly login and play the game.
-After successful login ,the user dashboard will open which contains the play button to play the game.
-By clicking on the play button, the Treasure Hunt game will start
-The player has to solve each riddle within a time limit provided,if time limit exceeded at any of the ridddle then player will not be able to move forward in the game.
-The admin dashboard contains the list of users who registered for the game.
+*New users can register for the game by filling name,email and password columns.*
+*Already registered users can directly login and play the game.*
+*After successful login ,the user dashboard will open which contains the play button to play the game.*
+*By clicking on the play button, the Treasure Hunt game will start*
+*The player has to solve each riddle within a time limit provided,if time limit exceeded at any of the ridddle then player will not be able to move forward in the game.*
+*The admin dashboard contains the list of users who registered for the game.*
 
 
 ## Deployed at
